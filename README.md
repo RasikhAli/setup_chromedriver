@@ -19,7 +19,7 @@ Feel free to connect or explore more of his projects!
 ## Installation
 
 ```bash
-pip install setup_chromedriver
+pip install setup-chromedriver
 ```
 
 ## Usage
