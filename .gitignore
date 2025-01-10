@@ -1,0 +1,19 @@
+# Ignore the virtual environment folder
+venv/
+
+# Ignore the tests files folder
+setup.py
+test.py
+tests/
+
+# Ignore the ChromeDriver folder
+Chromedriver/
+
+# Ignore system files
+*.log
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore macOS-specific files
+.DS_Store
